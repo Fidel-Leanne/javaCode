@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "Programmingg.java",
+        "DPG/src/main/java/com/mycompany/dpg"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Operator\\Desktop\\mysql-connector-j-8.0.31\\mysql-connector-j-8.0.31\\mysql-connector-j-8.0.31.jar"
+    ]
+}
