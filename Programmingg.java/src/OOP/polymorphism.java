@@ -12,8 +12,10 @@ System.out.println("My Favourite color is"+ color);
 class Jane extends polymorphism{
  String  color ="red";
     public void myFavoriteColor(){
-        System.out.println("My Favourite color is"+ color);
+        System.out.println("My Favourite color is "+ color);
 
     }
 }
+
+
 
