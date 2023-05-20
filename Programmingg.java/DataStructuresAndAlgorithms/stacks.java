@@ -26,6 +26,8 @@ public class stacks {
 
         System.out.println("enter adjective");
         String adjective2 = random.nextLine();
+
+        // uses LIFO
         Stack<String> stack = new Stack<>();
         stack.push(noun1);
         stack.push(noun2);
@@ -37,6 +39,13 @@ public class stacks {
         System.out.println(stack.empty());
 
         System.out.println(stack);
+        System.out.println(stack.peek());
+
+        // uses of stacks
+        // 1. undo / redo
+        // 2. moving back/forward browser history
+        // 3. backtracking algorithms
+        // 4. calling functions
 
     }
 
