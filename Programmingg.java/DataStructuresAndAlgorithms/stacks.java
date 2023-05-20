@@ -35,6 +35,9 @@ public class stacks {
         stack.push(verb2);
 
         System.out.println(stack.empty());
+
+        System.out.println(stack);
+
     }
 
 }
