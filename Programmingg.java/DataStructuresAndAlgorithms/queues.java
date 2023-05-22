@@ -24,5 +24,6 @@ public class queues {
         Scanner random = new Scanner(System.in);
 
         System.out.println(queue.contains(random.nextLine()));
+
     }
 }
