@@ -17,7 +17,7 @@ public class linkedLists {
         linkedList.push("F");
 
         linkedList.add(0, "#");
-        // linkedList.remove("#");
+        linkedList.remove("#");
 
         System.out.println(linkedList.peekFirst());
         System.out.println(linkedList.peekLast());
